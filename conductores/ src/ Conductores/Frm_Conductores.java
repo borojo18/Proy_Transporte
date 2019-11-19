@@ -1,6 +1,6 @@
 
 package Conductores;
-
+//comentar lineas de codigo
 import javax.swing.JOptionPane;
 
 public class Frm_Conductores extends javax.swing.JFrame {
